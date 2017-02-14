@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1202px" height="1041px" viewBox="0 0 1202 1041" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>surroundings</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="surroundings">
+            <g id="Page-1">
+                <path d="M0,0 L1200,0 L1200,1040 L0,1040 L0,0 Z M290,120 L908,120 L908,633 L290,633 L290,120 Z" id="Combined-Shape" fill="#D3D9E0"></path>
+                <g id="surroundings" transform="translate(2.000000, 2.000000)">
+                    <path d="M978,648 L263,648" id="Shape" stroke="#FFFFFF" stroke-width="20"></path>
+                    <polygon id="Shape" fill="#29D392" points="238 523.8 0 523.8 0 1.5 238 1.5"></polygon>
+                    <polygon id="Shape" fill="#9F9F9F" points="1198 576.3 1026 576.3 1026 54 1198 54"></polygon>
+                    <circle id="Oval" fill="#27AE60" cx="868" cy="690" r="20"></circle>
+                    <polygon id="Shape" fill="#ECECEC" points="213.9 276.4 127 276.4 127 182 213.9 182"></polygon>
+                    <path d="M987,1038 L987,0" id="Shape" stroke="#FFFFFF" stroke-width="20"></path>
+                    <path d="M253,1035 L253,230" id="Shape" stroke="#FFFFFF" stroke-width="20"></path>
+                    <path d="M254,541 L0,541" id="Shape" stroke="#FFFFFF" stroke-width="20"></path>
+                    <path d="M253,233 L163,2" id="Shape" stroke="#FFFFFF" stroke-width="20"></path>
+                    <path d="M993,647 L1200,647" id="Shape" stroke="#FFFFFF" stroke-width="20"></path>
+                    <polygon id="Shape" fill="#29D392" points="974 1039 263 1039 263 719 974 719"></polygon>
+                    <circle id="Oval" fill="#29D392" cx="271" cy="690" r="20"></circle>
+                    <circle id="Oval" fill="#29D392" cx="669" cy="690" r="20"></circle>
+                    <circle id="Oval" fill="#29D392" cx="569" cy="690" r="20"></circle>
+                    <circle id="Oval" fill="#29D392" cx="470" cy="690" r="20"></circle>
+                    <circle id="Oval" fill="#29D392" cx="967" cy="690" r="20"></circle>
+                    <circle id="Oval" fill="#29D392" cx="370" cy="690" r="20"></circle>
+                    <circle id="Oval" fill="#29D392" cx="768" cy="690" r="20"></circle>
+                    <g id="Group" transform="translate(145.000000, 188.000000)" fill="#474747">
+                        <path d="M47.625,53.34 L47.625,18.0975 C47.625,13.335 43.815,9.525 39.0525,9.525 L28.575,9.525 L28.575,4.7625 L38.1,4.7625 L38.1,0 L9.525,0 L9.525,4.7625 L19.05,4.7625 L19.05,9.525 L8.5725,9.525 C3.81,9.525 0,13.335 0,18.0975 L0,53.34 C0,58.1025 3.81,61.9125 8.5725,61.9125 L9.525,61.9125 L6.19125,66.675 L0,66.675 L0,71.4375 L3.33375,71.4375 L0,76.2 L9.525,76.2 L12.3825,71.4375 L35.71875,71.4375 L38.57625,76.2 L48.10125,76.2 L44.7675,71.4375 L47.625,71.4375 L47.625,66.675 L41.43375,66.675 L38.1,61.9125 L39.0525,61.9125 C43.815,61.9125 47.625,58.1025 47.625,53.34 Z M4.7625,18.57375 C4.7625,16.1925 6.6675,14.2875 9.04875,14.2875 L38.1,14.2875 C40.9575,14.2875 42.8625,16.1925 42.8625,18.57375 L42.8625,28.575 C42.8625,31.4325 40.9575,33.3375 38.57625,33.3375 L9.04875,33.3375 C6.6675,33.3375 4.7625,31.4325 4.7625,29.05125 L4.7625,18.57375 Z M4.7625,52.3875 C4.7625,49.53 6.6675,47.625 9.525,47.625 C12.3825,47.625 14.2875,49.53 14.2875,52.3875 C14.2875,55.245 12.3825,57.15 9.525,57.15 C6.6675,57.15 4.7625,55.245 4.7625,52.3875 Z M32.86125,66.675 L14.76375,66.675 L17.62125,61.9125 L30.00375,61.9125 L32.86125,66.675 Z M33.3375,52.3875 C33.3375,49.53 35.2425,47.625 38.1,47.625 C40.9575,47.625 42.8625,49.53 42.8625,52.3875 C42.8625,55.245 40.9575,57.15 38.1,57.15 C35.2425,57.15 33.3375,55.245 33.3375,52.3875 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
